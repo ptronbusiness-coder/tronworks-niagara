@@ -13,7 +13,7 @@ I’m Paxton Hambling, founder of TronWorks here in St. Catharines. I was lookin
 
 I put the ideas into a short, no-pressure preview here:
 
-AUDIT_URL/lutong-pinoy.html
+https://ptronbusiness-coder.github.io/tronworks-niagara/audits/lutong-pinoy.html
 
 The main items are a clearer ordering next step, the placeholder social links, and a few small menu/site copy edits. If the preview is useful, I can handle those three agreed fixes for $99 CAD, with no monthly contract.
 
@@ -40,7 +40,7 @@ I’m Paxton Hambling, founder of TronWorks here in St. Catharines. I was lookin
 
 I put together a short preview here:
 
-AUDIT_URL/everfresh-pizza.html
+https://ptronbusiness-coder.github.io/tronworks-niagara/audits/everfresh-pizza.html
 
 It covers the different “Order Now” destinations, menu navigation, and a few small ordering-copy improvements. If it’s useful, I can handle three agreed fixes for $99 CAD, with no monthly contract.
 
@@ -67,7 +67,7 @@ I’m Paxton Hambling, founder of TronWorks here in St. Catharines. While lookin
 
 I put a short courtesy preview together here:
 
-AUDIT_URL/wellington-court.html
+https://ptronbusiness-coder.github.io/tronworks-niagara/audits/wellington-court.html
 
 I can do a full menu proofread and deliver the corrected, ready-to-apply copy for $79 CAD. If you’d rather have the website updated directly, I can quote that once I know what platform it uses.
 
